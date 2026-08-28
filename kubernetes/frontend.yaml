@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: kevinjcloud/wanderlust:v2.2
+          image: kevinjcloud/wanderlust:frontendv1
           ports:
             - containerPort: 5173
 ---
